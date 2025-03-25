@@ -7,6 +7,7 @@ from django.test import TestCase
 
 from core import models
 
+
 class UserModelTests(TestCase):
     """Tests for user model"""
 
